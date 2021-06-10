@@ -1,0 +1,7 @@
+.container_Footer{
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-size: contain;
+    justify-content: space-between;
+}
