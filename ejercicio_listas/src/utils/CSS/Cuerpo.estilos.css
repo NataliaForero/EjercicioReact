@@ -1,8 +1,8 @@
 .contenedor_cuerpo{
     display: flex;
     width: 100%;
-    height: auto;
-    background-size: contain;
+    height: 33.3vh;
     justify-content: space-between;
+    margin:20px 5px;
 }
 
